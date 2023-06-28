@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div class = "menu"> 
   <img src = "https://github-readme-stats.vercel.app/api?username=caionasc&show_icons=true&theme=tokyonight")>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=caionasc&hide_progress=true)">
+
 </div>
 
 <div class="redes">
